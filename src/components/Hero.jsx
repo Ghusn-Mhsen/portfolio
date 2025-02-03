@@ -75,7 +75,7 @@ const Hero = () => {
                         <motion.button
                             whileHover={{ scale: 1.05, boxShadow: "0px 0px 8px rgba(0, 0, 0, 0.3)" }}
                             className="z-10 cursor-pointer font-bold text-gray-200 md:w-auto p-4 border border-purple-400 rounded-xl"
-                            onClick={() => window.open("https://drive.google.com/file/d/1vLSvDFCEHIlR9VYTTxtz_bOtBlc9K6M4/view?usp=sharing", "_blank")}
+                            onClick={() => window.open("https://drive.google.com/file/d/1mv8uakNGBJBbjtfxKchyEG5eufyKUCXD/view?usp=sharing", "_blank")}
                         >
                             Show CV
                         </motion.button>
